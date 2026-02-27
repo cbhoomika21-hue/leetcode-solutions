@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0125-valid-palindrome) |
 ## Hash Table
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
