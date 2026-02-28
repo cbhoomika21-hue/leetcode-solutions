@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0540-single-element-in-a-sorted-array](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Trie
 |  |
@@ -40,5 +41,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0540-single-element-in-a-sorted-array](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
