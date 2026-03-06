@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0724-find-pivot-index) |
 ## Trie
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0540-single-element-in-a-sorted-array](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
