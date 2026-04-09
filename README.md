@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0456-132-pattern](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
@@ -138,4 +139,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0456-132-pattern) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
