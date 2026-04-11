@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0189-rotate-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Array
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0200-number-of-islands) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
