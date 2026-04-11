@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0322-coin-change](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0322-coin-change) |
 | [0456-132-pattern](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0322-coin-change](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0322-coin-change) |
 | [1143-longest-common-subsequence](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Prefix Sum
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0322-coin-change) |
 ## Union-Find
 |  |
 | ------- |
