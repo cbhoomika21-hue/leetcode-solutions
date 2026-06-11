@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0020-valid-parentheses) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
