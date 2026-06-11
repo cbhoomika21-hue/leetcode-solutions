@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0456-132-pattern](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
