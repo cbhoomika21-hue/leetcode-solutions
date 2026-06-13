@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1143-longest-common-subsequence](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [3838-weighted-word-mapping](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3838-weighted-word-mapping](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3838-weighted-word-mapping](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Linked List
 |  |
 | ------- |
