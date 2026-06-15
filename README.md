@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0212-word-search-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1143-longest-common-subsequence](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [3838-weighted-word-mapping](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0189-rotate-array](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0212-word-search-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0212-word-search-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0212-word-search-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0052-n-queens-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0212-word-search-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0212-word-search-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
