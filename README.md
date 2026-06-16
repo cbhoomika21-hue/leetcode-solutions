@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1143-longest-common-subsequence](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [3612-process-string-with-special-operations-i](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3612-process-string-with-special-operations-i](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Linked List
 |  |
