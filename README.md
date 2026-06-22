@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1840-maximum-building-height](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Array
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0322-coin-change) |
 | [1143-longest-common-subsequence](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Prefix Sum
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Binary Indexed Tree
 |  |
