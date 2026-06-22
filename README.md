@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0189-rotate-array) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1840-maximum-building-height](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Array
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1840-maximum-building-height](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [3161-block-placement-queries](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3161-block-placement-queries) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3838-weighted-word-mapping](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [1840-maximum-building-height](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1840-maximum-building-height) |
 ## Binary Search
 |  |
 | ------- |
