@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3161-block-placement-queries) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3838-weighted-word-mapping](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
@@ -176,11 +177,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Quickselect
 |  |
 | ------- |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3161-block-placement-queries) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Geometry
 |  |
 | ------- |
