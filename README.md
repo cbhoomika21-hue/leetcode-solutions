@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0242-valid-anagram](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [2615-sum-of-distances](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [2463-minimum-total-distance-traveled](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2574-left-and-right-sum-differences](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2615-sum-of-distances](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [3093-longest-common-suffix-queries](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3161-block-placement-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [2574-left-and-right-sum-differences](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2615-sum-of-distances](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
