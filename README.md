@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -343,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3161-block-placement-queries) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Geometry
 |  |
 | ------- |
