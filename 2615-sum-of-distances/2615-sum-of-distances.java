@@ -1,0 +1,40 @@
+import java.util.*;
+
+class Solution {
+    public long[] distance(int[] nums) {
+            int n = nums.length;
+                    Map<Integer, List<Integer>> map = new HashMap<>();
+                            
+                                    // Group indices by value
+                                            for (int i = 0; i < n; i++) {
+                                                        map.computeIfAbsent(nums[i], k -> new ArrayList<>()).add(i);
+                                                                }
+                                                                        
+                                                                                long[] result = new long[n];
+                                                                                        
+                                                                                                // Process each group
+                                                                                                        for (List<Integer> indices : map.values()) {
+                                                                                                                    int k = indices.size();
+                                                                                                                                if (k == 1) continue;
+                                                                                                                                            
+                                                                                                                                                        long totalSum = 0;
+                                                                                                                                                                    for (int idx : indices) {
+                                                                                                                                                                                    totalSum += idx;
+                                                                                                                                                                                                }
+                                                                                                                                                                                                            
+                                                                                                                                                                                                                        long leftSum = 0;
+                                                                                                                                                                                                                                    for (int i = 0; i < k; i++) {
+                                                                                                                                                                                                                                                    int idx = indices.get(i);
+                                                                                                                                                                                                                                                                    long rightSum = totalSum - leftSum - idx;
+                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                    // (i * idx - leftSum) calculates distance to all indices on the left
+                                                                                                                                                                                                                                                                                                                    // (rightSum - (k - 1 - i) * idx) calculates distance to all indices on the right
+                                                                                                                                                                                                                                                                                                                                    result[idx] = ((long) i * idx - leftSum) + (rightSum - (long) (k - 1 - i) * idx);
+                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                    leftSum += idx;
+                                                                                                                                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                                                                                                                                                                        return result;
+                                                                                                                                                                                                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                                                                                                                                                                                                            }
