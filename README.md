@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1143-longest-common-subsequence](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3093-longest-common-suffix-queries](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3612-process-string-with-special-operations-i](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3614-process-string-with-special-operations-ii) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2463-minimum-total-distance-traveled](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2574-left-and-right-sum-differences](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/2615-sum-of-distances) |
