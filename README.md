@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0456-132-pattern](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -301,12 +302,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
