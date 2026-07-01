@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0149-max-points-on-a-line](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0212-word-search-ii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0456-132-pattern](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
