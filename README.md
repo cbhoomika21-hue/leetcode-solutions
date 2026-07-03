@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0322-coin-change) |
 | [0456-132-pattern](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0456-132-pattern) |
+| [0463-island-perimeter](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0503-next-greater-element-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0463-island-perimeter](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
 |  |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0322-coin-change) |
+| [0463-island-perimeter](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [1345-jump-game-iv](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0212-word-search-ii) |
+| [0463-island-perimeter](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Memoization
