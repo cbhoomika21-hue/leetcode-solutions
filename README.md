@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1345-jump-game-iv) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1840-maximum-building-height) |
