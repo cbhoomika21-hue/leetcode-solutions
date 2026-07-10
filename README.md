@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3721-longest-balanced-subarray-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3721-longest-balanced-subarray-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3721-longest-balanced-subarray-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sliding Window
@@ -455,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3161-block-placement-queries](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3161-block-placement-queries) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3721-longest-balanced-subarray-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Geometry
