@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0212-word-search-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0761-special-binary-string](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0761-special-binary-string) |
 | [1143-longest-common-subsequence](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0761-special-binary-string](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0761-special-binary-string) |
 | [1288-remove-covered-intervals](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0761-special-binary-string](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0761-special-binary-string) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
