@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1288-remove-covered-intervals](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1306-jump-game-iii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [1306-jump-game-iii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [1306-jump-game-iii](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/1345-jump-game-iv) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/cbhoomika21-hue/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
